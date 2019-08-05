@@ -5,6 +5,7 @@
 .pnp.js
 /.idea
 /dist
+/node_modules
 
 
 # testing
